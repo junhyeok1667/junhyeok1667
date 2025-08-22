@@ -23,8 +23,8 @@ I am interested in data analysis and backend development, and I enjoy learning n
 - 🏗️ Experience: JDBC project, writing about technology on my [blog](https://chilisugar-project.tistory.com/)
   
 - 📜 Certifications
-- Big Data Analytics Engineer
-- Information Processing Engineer
-- ADsP (Advanced Data Analytics Semi-Professional)
-- SQLD (SQL Developer) 
+  Big Data Analytics Engineer
+  Information Processing Engineer
+  ADsP (Advanced Data Analytics Semi-Professional)
+  SQLD (SQL Developer) 
 
