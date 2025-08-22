@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I am Junhyeok Seo, a student majoring in IT Convergence.  
+I am interested in data analysis and backend development, and I enjoy learning new technologies.  
+
+- 🔭 Currently learning: Java, MySQL, Python, C
+- 🌱 Areas of interest: Big Data Analysis, ICT/DT, Databases
+- 🏗️ Experience: JDBC project, writing about technology on my [blog](https://chilisugar-project.tistory.com/)
+  
+- 📜 Certifications
+- Big Data Analytics Engineer
+- Information Processing Engineer
+- ADsP (Advanced Data Analytics Semi-Professional)
+- SQLD (SQL Developer) 
+
